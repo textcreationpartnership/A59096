@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and lamentable news from Northampton, or, A full and true relation of the late great fire whereby the far greater part of that antient and eminent corporation is destroyed: there being the great Church of St. All-Hallows and two other parish churches, the market-place, and most part of the chief streets in the town burnt down and consumed. On Monday the 20th of this instant September, 1675. With allowance.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59096</idno><idno type="EEBO-CITATION">99830584</idno>
+  <idno type="VID">35037</idno>
+  <idno type="EEBO-PROQUEST">2240894370</idno>
+  
+            <idno type="STC">Wing S243A</idno>
+            <idno type="STC">ESTC R219048</idno>
+            <idno type="PROQUEST">99830584</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830584e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1875:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and lamentable news from Northampton, or, A full and true relation of the late great fire whereby the far greater part of that antient and eminent corporation is destroyed: there being the great Church of St. All-Hallows and two other parish churches, the market-place, and most part of the chief streets in the town burnt down and consumed. On Monday the 20th of this instant September, 1675. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on p. 3: An account of the late great fire at Northampton.</note>
+                  <note>Copy stained, with print show-through.</note>
+                  <note>Reproduction of the original at the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fires --  England --  Northampton --  Early works to 1800.</term>
+               <term type="geographic_name">Northampton (England) --  Fire, 1675 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35037:1"/>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and Lamentable News FROM Northampton, OR, A full and true Relation of the late great FIRE: Whereby the far greater part of that Antient and Eminent Corporation is destroyed: There being the Great Church of St. <hi>All-Hallows</hi> and two other Parish Churches, the Market-place, and most part of the chief Streets in the Town burnt down and consumed.</p>
+            <p>On <hi>Monday</hi> the 20th of this instant <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1675.</p>
+            <p>With Allowance.</p>
+            <p>Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35037:2"/>
+            <head>An Account of the late great <hi>Fire</hi> at <hi>Northampton.</hi>
+            </head>
+            <p>NORTHAMPTON (scituate near the very centre or middle of <hi>England,</hi> and about threescore miles from <hi>London</hi>) was a Town inferior to few Inland places throughout the <hi>Nation</hi> for the sweetness of air, The gallant Champaigne Country sur<g ref="char:EOLhyphen"/>rounding it, The number of Gentry liveing in or near it, and resorting to it, together with the several great roads ly<g ref="char:EOLhyphen"/>ing through it, as to <hi>Westchester, Nottingham,</hi> most part of Yorkshire &amp;c. seemd all to conspire to render it a place of considerable Trade and Importance.</p>
+            <p>But places as well as men have their crittical times and seasons of visitation: <hi>Troy, Ninive</hi> and <hi>Carthage</hi> once the famoust Citties of the universe have now nothing but paper walls to preserve their memories, This eminent Town but the other day fild with numerous Inhabitants and flourisheth with plenty and opulency within lesse then the compasse of halfe a day is for the most part reduced to ashes, It's stately structures become heaps of rubbish, and it's magnificent building
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:35037:3"/> sacred and civil buried in their own ruins by a sudden and unexpected catastrophe.</p>
+            <p>So fleeting transitory and uncertaine are all worldly En<g ref="char:EOLhyphen"/>joyments that can promise no certaine continuance to them<g ref="char:EOLhyphen"/>selves, or lasting felicity to their possessors.</p>
+            <p>The beginning or original cause of this deplorable disaster as in all other such sudden great and surprising Accidents is variously reported, but the most approved opinion of persons best informed agrees, That it began in a poore womans house in manner following.</p>
+            <p>On munday the 20. of this instant september this woman being to wash some clothes got some straw to heat her water (wood and all sort of fewel being there alwayes extraordinary dear and scarce to be got) and having kindled too great a wispe thereof, with the sudden blaze it set her chimney on fire and soe the sparke put all the roof of her tenement which was only covered with thatch in a flame.</p>
+            <p>It was then about one or two of the clock in the afternoon, and being at such a time in the open day when all people were abroad and ready to helpe and the Town being generally built of stone, not lyable to catch the combustion so fast as wooden yet on the other side if it be considered, how violent the wind was which blew very high and hard all that day, and how right it it did set to cast the flames upon the whole body of the towne, how great an Encrease the fire presently got by seizing upon several ricks or stacks of hay and corn, how sad an astonishment the poore affrigted people were in and that they wanted the benefit of engines and the skill (perhaps or the conveniency at least to put in practise the remedy of
+<pb n="5" facs="tcp:35037:3"/> blowing up houses &amp;c. we canno<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but apprehend dread<g ref="char:EOLhyphen"/>full consequences, and conclude that there was sufficient cause for this sad devastation that now sorrowfully behold.</p>
+            <p>
+               <hi>Thus fleeting transitory and uncertaine are all worldly enjoy<g ref="char:EOLhyphen"/>ments not only particular men being lyable by various accidents to be stript of their wealth, but whole towns obnoxious to the same fate, and in a moment reduced to Ashes.</hi>
+            </p>
+            <p>
+               <hi>For this raging fire in spight and defiance of all resistance went on and being driven forwards and spread by the impetuosity of the wind which in a very small space veer'd to several points of the Gomposs, It seised upon the very heart of the Towne burnt down the most most part of the High street consumed the market place (which was a very goodly one) and what is yet more destroyed the stately church of</hi> St. <hi>Ailhallowes and two other parish Churches, S that there is now but one Church left fit for the people to sssemble in, to worship God in the whole Town.</hi>
+            </p>
+            <p>There was scarce any place in <hi>England</hi> could boast of so many large and fair Inns, or so well furnished for the accommodation of Travellers, but now they are generally destroyed, together with most part of their Goods and Provision of Hay, Provinder and Corn, to a mighty value. This disaster being so much the more unhappy and Calamitous, in that it fell out just after Harvest, when most people had laid up, and fur<g ref="char:EOLhyphen"/>nisht themselves with their Winter-store; which now being thus sud<g ref="char:EOLhyphen"/>denly destroyed, they are forced (poor souls) very many of them to seek Bread for themselves and Families, and cannot but under such circumstances, be exposed to very sad and pressing necessities.</p>
+            <p>In brief, 'tis modesty computed by the most observing persons, that three parts in four of the said Town of <hi>Northampton,</hi> are ruined and
+<pb n="6" facs="tcp:35037:4"/> consumed, there being only the Skirts or Suburbs left standing. And all this mischief done between <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne or two of the Clock in the Afternoon, and nine or tenn at Night (for about that time the Fire was stopt and mastered.)</p>
+            <p>The particular losses or total Damages cannot yet be computed to any degree of exactness. But in general; we cannot but conceive that the same are very vast and considerable. For the Calamity coming so suddenly and fast upon them, few of the distressed Inhabitants had time or opportunity to get away their Goods, and several having made shift to remove their things into the Streets, the Fire came on with such vio<g ref="char:EOLhyphen"/>lence, that it seized and burned them there, before they could carry them any farther.</p>
+            <p>To go about to represent the dismal confusions of such a terrible Vi<g ref="char:EOLhyphen"/>sitatoin, were to suspect the Readers Christian compassion, which can<g ref="char:EOLhyphen"/>not of it self but sympathize with the ruinated Sufferers, without be<g ref="char:EOLhyphen"/>ing moved thereunto by a Rhetorical description; and besides, is need<g ref="char:EOLhyphen"/>less to those that have seen <hi>London</hi> in Flames, and by their own disasters (as well as common Charity) have been taught to comiserate those of their Brethren.</p>
+            <p>Let this fresh Example rather warn all persons whether in City or Country, not to trust in uncertain Riches; much less to violate the Laws of God, or injure their Neighbours, to obtain them by indirect courses.</p>
+            <p>To go about to make any studied pathetical description of the Hor<g ref="char:EOLhyphen"/>rors, the Frights, the Amazements, Confusions, Cries and Lamentati<g ref="char:EOLhyphen"/>ons o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the distressed Inhabitannts in this miserable Juncture, would be to suspect the Readers Christian Charity, as if the bare Relation of such a calamitous accident could not raise their sympathizing Griefs to the highest Key without expecting to have their affections moved
+<pb n="7" facs="tcp:35037:4"/> with the doleful Notes of Rhetor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck: Those that have seen <hi>London</hi> in ashes will find in themselves more lively Ideas, if these poor disco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>solate Souls Condition than any I can express, and know how from their own Experience, as well as good nature, to commiserate their Brethren.</p>
+            <p>But naked pity is but a helpless s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lve for misery, Let us improve it by Charity and all the good Offices of Love to the Sufferers, and to our selves by taking warning from this fresh accident (or rather Prov<g ref="char:EOLhyphen"/>dence) not to trust in uncertain Riches, not to set up our rest in Earth<g ref="char:EOLhyphen"/>ly Tabernacles, much less to violate the Laws of God, or injure our Neighbours to obtain them by indirect courses, since we see, that in one moment we may be stript of them all, and then nothing will remain to us but the sin of having got them unlawfully. And for those immedi<g ref="char:EOLhyphen"/>ately concernd, learn from thence, to lie low under the Visitation of God, acknowledging him to be <hi>holy in all his works, and righteous in all his Judgments.</hi> What though God hath taken away your houses and goods by Fire? Is it not an unspeakable mercy that your Souls are still on this side the fire of Hell;; 'Tis his mercy that your selves were not likewise consumed; Leave off your childish whining for these earthly trifles, and settle your affections on things above, strive for those glorious eternal Mansions not made with hands prepared by the Father for all that love and obey him; Learn to know and prize that <hi>one thing uncessary:</hi> It is not necessary that I should be rich, but it is necessary that I should be holy, if ever I would be lastingly happy, Tis not necessary I should enjoy a pleasurable life in this world, but it is absol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely necessary that I should make God my portion and obtain an assurance of his love, if I would not be eternally miserably in the next. What though I am housless my Saviour had not whereon to lay his head? What though I am mony less, if I am not Graceless and Christless, 'tis no great matter.</p>
+            <p>Let Sins, thoughts, and Considerations, I say, or these rest upon their hearts, and support their drooping Spirits, so may this Loss prove their infinite Gain, and the Burning of their Houses be an Instru<g ref="char:EOLhyphen"/>mental occasion to preserve their Souls from everlasting Burnings, and
+<pb n="8" facs="tcp:35037:5"/> then how joyfully will they reflect upon that which now they count mat<g ref="char:EOLhyphen"/>ter of Grief, when they shall experience that never failing Promise of that Holy One, <hi>That all things shall work together for Good to those that fear him.</hi>
+            </p>
+            <p>
+               <hi>The particular lesser or total damage cannot at least as yet be computed to any degree of Exactness only in general we must conclude them to be very vast and considerable, and such as cannot but influence much further <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>han the flames were seen, not a few as ti's feared in this City suffering in the unailing of their Customers and correspondents there for hapening see suddenly many had not time to remove their goods but into the street where flakes of fire carried to a great distance by the impetuossity of the wind seised them and consumed them before they could bee carried further.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
